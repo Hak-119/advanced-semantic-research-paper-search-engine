@@ -1,0 +1,9 @@
+streamlit
+arxiv
+sentence-transformers
+faiss-cpu  
+transformers
+torch
+python-dotenv
+tiktoken 
+requests
